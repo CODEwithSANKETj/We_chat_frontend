@@ -55,14 +55,18 @@ For any inquiries or support, you can reach us at:
 
 ## UI Screenshots
 
-| HOMEPAGE |
-|:--------:|
-| ![HOMEPAGE](path/to/homepage-screenshot.png) |
-
-| DASHBOARD | CHAT |
-|:---------:|:----:|
-| ![DASHBOARD](path/to/dashboard-screenshot.png) | ![CHAT](path/to/chat-screenshot.png) |
-
 | LOGIN | SIGNUP |
 |:-----:|:---------------:|
 | ![LOGIN](https://github.com/CODEwithSANKETj/We_chat_frontend/blob/main/screenshots/Login_page.png) | ![FRIEND REQUESTS](https://github.com/CODEwithSANKETj/We_chat_frontend/blob/main/screenshots/signup.png) |
+
+| REALTIMECHAT |
+|:--------:|
+| ![REALTIMECHAT](https://github.com/CODEwithSANKETj/We_chat_frontend/blob/main/screenshots/react_time_chat.png) |
+
+| DASHBOARD CHAT | DARKMODE CHAT |
+|:---------:|:----:|
+| ![DASHBOARD CHAT](https://github.com/CODEwithSANKETj/We_chat_frontend/blob/main/screenshots/dashboard.png) | ![DARKMODE CHAT](https://github.com/CODEwithSANKETj/We_chat_frontend/blob/main/screenshots/dashboard_darkmode.png) |
+
+| SEND REQUEST| ACCEPT REQUEST |
+|:---------:|:----:|
+| ![SEND REQUEST](https://github.com/CODEwithSANKETj/We_chat_frontend/blob/main/screenshots/search_friend.png) | ![ACCEPT REQUEST](https://github.com/CODEwithSANKETj/We_chat_frontend/blob/main/screenshots/requested_friend.jpg) |
