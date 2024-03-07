@@ -59,9 +59,9 @@ For any inquiries or support, you can reach us at:
 |:--------:|
 | ![HOMEPAGE](path/to/homepage-screenshot.png) |
 
-| DASHBOARD | CHAT |
+| DASHBOARD CHAT | DARKMODE CHAT |
 |:---------:|:----:|
-| ![DASHBOARD](path/to/dashboard-screenshot.png) | ![CHAT](path/to/chat-screenshot.png) |
+| ![DASHBOARD CHAT](https://github.com/CODEwithSANKETj/We_chat_frontend/blob/main/screenshots/dashboard.png) | ![DARKMODE CHAT](https://github.com/CODEwithSANKETj/We_chat_frontend/blob/main/screenshots/dashboard_darkmode.png) |
 
 | LOGIN | SIGNUP |
 |:-----:|:---------------:|
