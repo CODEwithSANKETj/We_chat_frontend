@@ -1,0 +1,11 @@
+#card_list {
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    text-align: center;
+    overflow-y: auto; /* Use 'auto' to show scrollbar only when content overflows */
+}
+
+#Sidebar_container{
+    width: 50%;
+}

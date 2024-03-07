@@ -1,0 +1,3 @@
+export const CREATE_SOCKET = 'CREATE_SOCKET'
+export const DISTORY_SOCKET ='DISTORY_SOCKET'
+export const ADD_ONLINE_USER = 'ADD_ONLINE_USER' 
