@@ -1,7 +1,7 @@
 # WE Chat - Real-time Chat Application
 
 <div align="center">
-  <img src="[path/to/your/logo.png](https://logos-world.net/wp-content/uploads/2022/05/WeChat-Logo.png)" alt="WE Chat Logo">
+  <img src="https://logos-world.net/wp-content/uploads/2022/05/WeChat-Logo.png" alt="WE Chat Logo">
 </div>
 
 ## Project Description
