@@ -11,7 +11,7 @@ Welcome to WE Chat, the ultimate platform for managing your friends and engaging
 ### Experience WE Chat
 
 <div align="center">
-  <a href="https://your-deployed-website-url.com/">Visit WE Chat</a>
+  <a href="https://beautiful-brigadeiros-2948c7.netlify.app">Visit WE Chat</a>
 </div>
 
 ## Features
@@ -37,9 +37,9 @@ WE Chat offers a range of features to keep you connected with your friends and m
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/we-chat.git`
-2. Install dependencies: `cd we-chat && npm install`
-3. Start the development server: `npm start`
+1. Clone the repository: `git clone https://github.com/CODEwithSANKETj/We_chat_frontend.git`
+2. Install dependencies: `npm install`
+3. Start the development server: `npm run dev`
 4. Navigate to `http://localhost:3000` in your browser to access the application.
 
 ## Contributions
@@ -49,8 +49,7 @@ Contributions to WE Chat are welcome! If you have any ideas or improvements, fee
 ## Contact
 
 For any inquiries or support, you can reach us at:
-- [your-email@example.com](mailto:your-email@example.com)
-- [another-email@example.com](mailto:another-email@example.com)
+- [your-email@example.com](mailto:jaiswalsanket9404@gmail.com)
 
 ---
 
