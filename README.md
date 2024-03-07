@@ -63,6 +63,6 @@ For any inquiries or support, you can reach us at:
 |:---------:|:----:|
 | ![DASHBOARD](path/to/dashboard-screenshot.png) | ![CHAT](path/to/chat-screenshot.png) |
 
-| LOGIN | FRIEND REQUESTS |
+| LOGIN | SIGNUP |
 |:-----:|:---------------:|
-| ![LOGIN](path/to/login-screenshot.png) | ![FRIEND REQUESTS](path/to/friend-requests-screenshot.png) |
+| ![LOGIN](https://github.com/CODEwithSANKETj/We_chat_frontend/blob/main/screenshots/Login_page.png) | ![FRIEND REQUESTS](https://github.com/CODEwithSANKETj/We_chat_frontend/blob/main/screenshots/signup.png) |
