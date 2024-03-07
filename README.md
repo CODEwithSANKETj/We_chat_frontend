@@ -49,7 +49,7 @@ Contributions to WE Chat are welcome! If you have any ideas or improvements, fee
 ## Contact
 
 For any inquiries or support, you can reach us at:
-- [your-email@example.com](mailto:jaiswalsanket9404@gmail.com)
+- [jaiswalsanket9404@gmail.com](mailto:jaiswalsanket9404@gmail.com)
 
 ---
 
